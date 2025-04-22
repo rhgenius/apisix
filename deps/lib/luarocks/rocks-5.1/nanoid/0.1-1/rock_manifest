@@ -1,0 +1,10 @@
+rock_manifest = {
+   doc = {
+      LICENSE = "813f61a2198afba818cff455053aadb9",
+      ["README.md"] = "4871f6d26d8f495491adafc7c3a9a3ff"
+   },
+   lib = {
+      ["nanoid.so"] = "e1e7a742788a256e6207bbb9f53ad04d"
+   },
+   ["nanoid-0.1-1.rockspec"] = "09adbd3168deee6b6e25b9d4376f1243"
+}
